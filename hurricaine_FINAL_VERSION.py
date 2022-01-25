@@ -283,4 +283,4 @@ print("""damage_scale = {0: 0,
 print(hurricaine_damage_scale)
 print("-" * 30)
 
-# ------------ END OF FLE -------------------
+# ------------ END OF FILE -------------------
